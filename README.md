@@ -1,1 +1,1 @@
-# Andrew Ng's Machine Learning course implemented
+# Andrew Ng's Machine Learning Course
